@@ -8,5 +8,4 @@ int main(){
     sum=(n*n+n)/2;
     cout<<"Sum of first "<<n<<"numbers is "<<sum;
     return 0;
-
 }
