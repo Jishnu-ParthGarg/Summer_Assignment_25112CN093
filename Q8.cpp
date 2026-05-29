@@ -1,3 +1,4 @@
+
 //Write a program to Check whether a number is palindrome.
 #include <bits/stdc++.h>
 using namespace std;
@@ -16,6 +17,5 @@ int main(){
     {
         cout<<"Yes,The number is Pallindrome.";
     }
-    
     return 0;
 }
